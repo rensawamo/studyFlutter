@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "963987032307",
+    "project_id": "firepro-8acd0",
+    "storage_bucket": "firepro-8acd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963987032307:android:78068d47fc873305e10f86",
+        "android_client_info": {
+          "package_name": "com.example.firebaseflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963987032307-kg5sdatl2vm6jjphoirut3b8sprp4eps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBws2_oJQ0dSB-vrWoEkaHyKIe2O8PZkz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963987032307-kg5sdatl2vm6jjphoirut3b8sprp4eps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963987032307-v5d61hemu5kot0ekjdl3kj6qjjrgbrq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ren.remonsawarmo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
